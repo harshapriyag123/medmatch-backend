@@ -78,6 +78,7 @@ Response:
 }
 ```
 📁 Folder Structure
+```bash
 medmatch-backend/
 ├── controllers/
 │   └── medicationController.js
@@ -88,5 +89,6 @@ medmatch-backend/
 ├── seed.js
 ├── server.js
 └── .env
+```
 ✍️ Authors
 Created by Harsha Priya and Sankarraj for Hackatopia 2025.

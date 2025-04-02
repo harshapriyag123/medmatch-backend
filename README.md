@@ -57,11 +57,9 @@ The API will be live at: http://localhost:5000/api/medications/:name
 Endpoint:
 ```bash
 GET /api/medications/Lipitor
+```
 Response:
-
-json
-Copy
-Edit
+```bash
 {
   "name": "Lipitor",
   "generic": ["Atorvastatin"],
